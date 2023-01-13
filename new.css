@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    
+   
+}
+.nav-title{
+    font-weight: 800px;
+    font-size: 45px;
+   
+    width: 555px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    position: absolute;
+
+    
+
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #FFFFFF;
+
+ 
+
+}
+.banner-parragraph{
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    text-align: right;
+
+    color: #FFFFFF;
+
+
+}
+.btn-primary{
+    color: blue;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background-color: bisque;
+    font-size: 20px;
+
+}
+.about-title{
+   
+    width: 288px;
+    height: 94px;
+    left: 855px;
+    top: 1000px;
+    position: absolute;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+ 
+     
+ }
+
+ .about-description{
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1120px;
+    font-weight: 400;
+    font-size: 16px;
+    position: absolute;
+    line-height: 26px;
+    color: #444343;
+
+ }
+ .about-info-container{
+    width: 640px;
+    height: 144px;
+    left: 892px;
+    top: 1260px;
+    font-weight: 400;
+    font-size: 16px;
+    position: absolute;
+    line-height: 36px;
+    color: #444343;
+    
+ }
+ .my-plan-title{
+     align-items:center ;
+     padding-right:220px ;
+     text-align: center;
+ }
+ .skill-container{
+    display: flex;
+    gap: 100px
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px ;
+}
+
+.skill-title{
+    font-weight:700px ;
+    font-size: 20px;
+ 
+
+
+}
+.skill-description{
+    color: #757575;
+
+}
+.chat-box-box-element{
+    position: absolute;
+   width: 1140px;
+   height: 300px;
+   left: 230px;
+   top: 2221.96px;
+   
+    background:linear-gradient(25deg, rgba(15, 61, 146, 0.548), tomato),url("../images/watch.png"); 
+
+ 
+   border-radius: 15px;
+   background-repeat: no-repeat;
+   background-position: left;
+   margin-bottom: 0px;
+   align-items: center;
+   padding-right: 5px;
+
+}
+.bg-gradiant{
+    text-decoration: none;
+    background-image: 
+
+}
+.bottom-work{
+    margin-top: 100px;
+}
+.btn-2{
+    margin-top: 20px;
+    color: blue;
+    background-color: bisque;
+}
+.contact{
+    position: absolute;
+    width: 485px;
+    height: 317px;
+    left: 223px;
+    top: 2763px;
+    display: flex;
+    padding:0px 50px 0px ;
+    margin-left: 100px;
+    border: black;
+    gap:80px;
+    
+}
+.section-description{
+     width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    
+
+    color:black ;
+
+
+}
+
+.contact .section-title{
+    text-align: left;
+}
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border:0;
+    width: 100%;
+    padding: 18px 30px;
+}
+.contact a{
+    text-decoration: : none;
+}
+.btn-3{
+    margin-top: 20px;
+    color: blue;
+    background-color: bisque;
+    width: auto;
+    
+    
+}
+
+  
+   
+    
